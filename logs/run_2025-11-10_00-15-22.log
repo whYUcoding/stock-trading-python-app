@@ -1,0 +1,16 @@
+Stock job started at 2025-11-10_00-15-25
+get next url: https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+get next url: https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+get next url: https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+get next url: https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+wait for 1 min to prevent exceed max requests per minutes
+get next url: https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+get next url: https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NjAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+get next url: https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NzAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+get next url: https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9ODAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+get next url: https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9OTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+wait for 1 min to prevent exceed max requests per minutes
+get next url: https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTAwMDAmYXM9JmxpbWl0PTEwMDAmbWFya2V0PXN0b2NrcyZvcmRlcj1hc2Mmc29ydD10aWNrZXI
+get next url: https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTEwMDAmYXM9JmxpbWl0PTEwMDAmbWFya2V0PXN0b2NrcyZvcmRlcj1hc2Mmc29ydD10aWNrZXI
+11927 tickers written to tickers_2025-11-10_00-15-25.csv
+
