@@ -12,4 +12,3 @@ schedule.every().minute.do(run_stock_job)
 while True:
     schedule.run_pending()
     time.sleep(1)
-    
