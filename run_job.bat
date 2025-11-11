@@ -17,4 +17,3 @@ for /f %%I in ('powershell -NoProfile -Command "Get-Date -Format yyyy-MM-dd_HH-m
 call "%CONDA_BAT%" run -n "%ENVNAME%" python "%SCRIPT%" >> "%LOGDIR%\run_%TS%.log" 2>&1
 
 endlocal
-pause
